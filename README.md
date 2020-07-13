@@ -1,4 +1,4 @@
-# Code for medium.com: Doing Your Statistics Homework With Python, Part 1
+# Code for a post on medium.com: Doing Your Statistics Homework With Python, Part 1
 This repo contains a jupyter notebook that contains functions useful for solving Statistics problems that ask questions about the distribution of a single categorical variable. In particular:
 
 1. Finding the total number of observations
